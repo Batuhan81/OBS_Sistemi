@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|c:\\users\\batuhan\\desktop\\yeni s\u00FCtunlar eklicem\\d\u00F6nemlikstajproje\\d\u00F6nemlikstajproje\\\u00F6\u011Fretmen_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|solutionrelative:d\u00F6nemlikstajproje\\\u00F6\u011Fretmen_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|c:\\users\\batuhan\\desktop\\yeni s\u00FCtunlar eklicem\\d\u00F6nemlikstajproje\\d\u00F6nemlikstajproje\\ogrenci_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|solutionrelative:d\u00F6nemlikstajproje\\ogrenci_paneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|c:\\users\\batuhan\\desktop\\yeni s\u00FCtunlar eklicem\\d\u00F6nemlikstajproje\\d\u00F6nemlikstajproje\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A97664B-B72D-4301-A06F-E96195685269}|D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje.csproj|solutionrelative:d\u00F6nemlikstajproje\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u00D6\u011Fretmen_Paneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\\u00D6\u011Fretmen_Paneli.cs",
+              "RelativeDocumentMoniker": "D\u00F6nemlikStajProje\\\u00D6\u011Fretmen_Paneli.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\\u00D6\u011Fretmen_Paneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "D\u00F6nemlikStajProje\\\u00D6\u011Fretmen_Paneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:33:20.169Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ogrenci_Paneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\Ogrenci_Paneli.cs",
+              "RelativeDocumentMoniker": "D\u00F6nemlikStajProje\\Ogrenci_Paneli.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\Ogrenci_Paneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "D\u00F6nemlikStajProje\\Ogrenci_Paneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:33:11.15Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\Admin.cs",
+              "RelativeDocumentMoniker": "D\u00F6nemlikStajProje\\Admin.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\Yeni S\u00FCtunlar Eklicem\\D\u00F6nemlikStajProje\\D\u00F6nemlikStajProje\\Admin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "D\u00F6nemlikStajProje\\Admin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T12:33:00.983Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
